@@ -1,0 +1,22 @@
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 前端依赖
+node_modules/
+.nuxt/
+dist/
+
+# 日志
+*.log
+_logs/
+
+# 数据库运行时文件
+*.sqlite3
+db.sqlite3
